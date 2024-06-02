@@ -985,6 +985,7 @@ in {
   tuxguitar = handleTest ./tuxguitar.nix {};
   twingate = runTest ./twingate.nix;
   typesense = handleTest ./typesense.nix {};
+  typhon = handleTest ./typhon.nix {};
   ucarp = handleTest ./ucarp.nix {};
   udisks2 = handleTest ./udisks2.nix {};
   ulogd = handleTest ./ulogd/ulogd.nix {};
